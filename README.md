@@ -106,7 +106,7 @@ The system helps in:
 📊 Feature Importance Plot
 A Random Forest–based feature importance graph is generated to show which features influence yield most.
 
-(This plot appears when executing the script.)
+![Random Forest](images/feature_importance.png)
 
 ---
 
